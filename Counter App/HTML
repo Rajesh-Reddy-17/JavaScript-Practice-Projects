@@ -1,1 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style 1.css">
+</head>
+<body>
+<div id="btnContainer">
+    <label id="countLabel">0</label> <br>
+    <button id="decreaseBtn" class="buttons">Decrease</button>
+    <button id="resetBtn" class="buttons">Reset</button>
+    <button id="increaseBtn" class="buttons">Increase</button>
+</div>
 
+    <script src="script 1.js"></script>
+</body>
+</html>
