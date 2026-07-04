@@ -24,40 +24,45 @@ The goal of this repository is to strengthen my understanding of:
 - Decrease count
 - Reset count
 
-### 2. Number Guessing Game
+### 2. Key Pulse
+- Display pressed key
+- Play music on key press
+- Stop music with NumLock
+
+### 3. Number Guessing Game
 - Random number generation
 - User input validation
 
-### 3. Temperature Converter
+### 4. Temperature Converter
 - Celsius to Fahrenheit
 - Fahrenheit to Celsius
 
-### 4. Dice Roller
+### 5. Dice Roller
 - Generate random dice values
 
-### 5. Random Password Generator
+### 6. Random Password Generator
 - Generate secure passwords
 
-### 6. Digital Clock
+### 7. Digital Clock
 - Real-time clock using JavaScript
 
-### 7. Stopwatch
+### 8. Stopwatch
 - Start, stop, and reset timer
 
-### 8. Rock Paper Scissors
+### 9. Rock Paper Scissors
 - Play against the computer
 
-### 9. Calculator
+### 10. Calculator
 - Basic arithmetic operations
 
-### 10.Rock Paper & Scissor
+### 11.Rock Paper & Scissor
 - Play against the computer
 
-### 11. Image Slider
+### 12. Image Slider
 - Previous and next image navigation
 - Dynamic image display
 
-### 12. Weather App
+### 13. Weather App
 - Fetch weather data using API
 - Display temperature and weather conditions
 
@@ -73,6 +78,7 @@ The goal of this repository is to strengthen my understanding of:
 ## Purpose
 
 This repository documents my JavaScript learning journey through hands-on projects and practical exercises.
+
 
 ## Author
 
