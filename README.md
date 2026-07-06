@@ -29,34 +29,36 @@ The goal of this repository is to strengthen my understanding of:
 - Play music on key press
 - Stop music with NumLock
 
-### 3. Number Guessing Game
+### 3. Random Number Generator
+- Generate random numbers
+- Roll 3 dice
+- Display results instantly
+
+### 4. Number Guessing Game
 - Random number generation
 - User input validation
 
-### 4. Temperature Converter
+### 5. Temperature Converter
 - Celsius to Fahrenheit
 - Fahrenheit to Celsius
 
-### 5. Dice Roller
+### 6. Dice Roller
 - Generate random dice values
 
-### 6. Random Password Generator
+### 7. Random Password Generator
 - Generate secure passwords
 
-### 7. Digital Clock
+### 8. Digital Clock
 - Real-time clock using JavaScript
 
-### 8. Stopwatch
+### 9. Stopwatch
 - Start, stop, and reset timer
 
-### 9. Rock Paper Scissors
+### 10. Rock Paper Scissors
 - Play against the computer
 
-### 10. Calculator
+### 11. Calculator
 - Basic arithmetic operations
-
-### 11.Rock Paper & Scissor
-- Play against the computer
 
 ### 12. Image Slider
 - Previous and next image navigation
